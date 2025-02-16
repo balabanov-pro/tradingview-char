@@ -1,0 +1,2 @@
+# tradingview-char
+tradingview-char
